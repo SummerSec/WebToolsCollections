@@ -11,8 +11,8 @@
 ###  Tools Links
 
 * [Hack-Tools by LasCC](https://ht.sumsec.me/htindex.html)
-
 * [Unicode-Jsp by Rvn0xsy](https://ht.sumsec.me/unicodejsp.html)
+* [A js encode/decode simple tool for XSS by xssee](https://ht.sumsec.me/xssee.html)
 
 
 
@@ -34,3 +34,6 @@
 
 ![image-20220227150550463](https://cdn.jsdelivr.net/gh/SummerSec/Images/50u550ec50u550ec.png)
 
+
+
+**A js encode/decode simple tool for XSS by xssee**
