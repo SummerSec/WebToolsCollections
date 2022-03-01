@@ -14,6 +14,7 @@
 * [Unicode-Jsp by Rvn0xsy](https://ht.sumsec.me/unicodejsp.html)
 * [A js encode/decode simple tool for XSS by xssee](https://ht.sumsec.me/xssee.html)
 * [CyberChef by gchq](https://ht.sumsec.me/CyberChef/CyberChef.html)
+* [reverse-shell-generator by 0dayCTF](https://ht.sumsec.me/reshell.html)
 
 
 
@@ -48,3 +49,11 @@
 
 
 ![image-20220228134017616](https://cdn.jsdelivr.net/gh/SummerSec/Images/17u4017ec17u4017ec.png)
+
+
+
+
+
+**reverse-shell-generator by 0dayCTF**
+
+![image-20220301185155059](https://cdn.jsdelivr.net/gh/SummerSec/Images/55u5155ec55u5155ec.png)
