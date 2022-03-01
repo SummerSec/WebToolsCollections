@@ -2,3 +2,6 @@
 	path = xssee
 	url = git@github.com:SummerSec/xssee.git
 
+[submodule "reverse"]
+	path = reverse
+	url = git@github.com:0dayCTF/reverse-shell-generator.git
