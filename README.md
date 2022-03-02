@@ -11,10 +11,10 @@
 ###  Tools Links
 
 * [Hack-Tools –Web渗透工具 by LasCC ](https://ht.sumsec.me/HackTools/)
-* [Unicode-Jsp –Unicode 编码工具 by Rvn0xsy](https://ht.sumsec.me/unicodejsp.html)
+* [Unicode-Jsp –Unicode 编码JSP工具 by Rvn0xsy](https://ht.sumsec.me/unicodejsp.html)
 * [A js encode/decode simple tool for XSS by xssee](https://ht.sumsec.me/xssee/)
-* [CyberChef by gchq](https://ht.sumsec.me/CyberChef/CyberChef/)
-* [reverse-shell-generator by 0dayCTF](https://ht.sumsec.me/reshell.html)
+* [CyberChef 用于加密、编码、压缩和数据分析的网站 by gchq](https://ht.sumsec.me/CyberChef/)
+* [reverse-shell-generator 功能强大的反弹 Shell 生成器 by 0dayCTF](https://ht.sumsec.me/reshell.html)
 
 
 
