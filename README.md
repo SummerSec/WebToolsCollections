@@ -14,8 +14,8 @@
 * [Unicode-Jsp –Unicode 编码JSP工具 by Rvn0xsy](https://ht.sumsec.me/unicodejsp.html)
 * [A js encode/decode simple tool for XSS by Monyer](https://ht.sumsec.me/xssee/)
 * [CyberChef 用于加密、编码、压缩和数据分析的网站 by gchq](https://ht.sumsec.me/CyberChef/)
-* [reverse-shell-generator 功能强大的反弹 Shell 生成器 by 0dayCTF](https://ht.sumsec.me/reshell.html)
-* [peAssist - Windows提权辅助 by gh0stkey](https://ht.sumsec.me/peAssist)
+* [reverse-shell-generator 功能强大的反弹 Shell 生成器 by 0dayCTF](https://ht.sumsec.me/reverse/)
+* [peAssist - Windows提权辅助 by gh0stkey](https://ht.sumsec.me/peAssist/)
 * [在线Google Hacking 小工具 by r00tSe7en](https://ht.sumsec.me/GoogleHackingTool/)
 
 
