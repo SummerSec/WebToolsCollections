@@ -26,13 +26,13 @@
 
 ### DEMO
 
-**Hack-Tools by LasCC**
+[**Hack-Tools –Web Pentester的多合一红队扩展 by LasCC** ](https://ht.sumsec.me/HackTools/)
 
 ![image-20220227150533465](https://cdn.jsdelivr.net/gh/SummerSec/Images/33u533ec33u533ec.png)
 
 
 
-**Unicode-JSP by Rvn0sy**
+[**Unicode-Jsp –Unicode 编码JSP工具 by Rvn0xsy**](https://ht.sumsec.me/unicodejsp.html)
 
 
 
@@ -40,13 +40,19 @@
 
 
 
-**A js encode/decode simple tool for XSS by xssee**
+
+
+ 
+
+[**A js encode/decode simple tool for XSS by Monyer**](https://ht.sumsec.me/xssee/)
+
+
 
 ![image-20220227172345948](https://cdn.jsdelivr.net/gh/SummerSec/Images/46u2346ec46u2346ec.png)
 
 ----
 
-**CyberChef by gchq**
+[**CyberChef 用于加密、编码、压缩和数据分析的网站 by gchq**](https://ht.sumsec.me/CyberChef/)
 
 
 
@@ -56,9 +62,31 @@
 
 
 
-**reverse-shell-generator by 0dayCTF**
+[**reverse-shell-generator 功能强大的反弹 Shell 生成器 by 0dayCTF**](https://ht.sumsec.me/reverse/)
+
+
 
 ![image-20220301185155059](https://cdn.jsdelivr.net/gh/SummerSec/Images/55u5155ec55u5155ec.png)
+
+
+
+
+
+
+
+[**peAssist - Windows提权辅助 by gh0stkey**](https://ht.sumsec.me/peAssist/)
+
+![image-20220302194531932](https://cdn.jsdelivr.net/gh/SummerSec/Images/31u4531ec31u4531ec.png)
+
+---
+
+[**在线Google Hacking 小工具 by r00tSe7en**](https://ht.sumsec.me/GoogleHackingTool/)
+
+![image-20220302194518076](https://cdn.jsdelivr.net/gh/SummerSec/Images/18u4518ec18u4518ec.png)
+
+
+
+
 
 
 
