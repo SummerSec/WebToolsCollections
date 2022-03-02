@@ -1,13 +1,10 @@
 [submodule "xssee"]
 	path = xssee
 	url = git@github.com:SummerSec/xssee.git
-
 [submodule "reverse"]
 	path = reverse
 	url = git@github.com:0dayCTF/reverse-shell-generator.git
 [submodule "GoogleHackingTool"]
 	path = GoogleHackingTool
 	url = git@github.com:r00tSe7en/GoogleHackingTool.git
-[submodule "peAssist"]
-	path = peAssist
-	url = git@github.com:gh0stkey/peAssist.git
+
