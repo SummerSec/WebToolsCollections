@@ -10,10 +10,10 @@
 
 ###  Tools Links
 
-* [Hack-Tools by LasCC](https://ht.sumsec.me/htindex.html)
-* [Unicode-Jsp by Rvn0xsy](https://ht.sumsec.me/unicodejsp.html)
-* [A js encode/decode simple tool for XSS by xssee](https://ht.sumsec.me/xssee.html)
-* [CyberChef by gchq](https://ht.sumsec.me/CyberChef/CyberChef.html)
+* [Hack-Tools –Web渗透工具 by LasCC ](https://ht.sumsec.me/HackTools/)
+* [Unicode-Jsp –Unicode 编码工具 by Rvn0xsy](https://ht.sumsec.me/unicodejsp.html)
+* [A js encode/decode simple tool for XSS by xssee](https://ht.sumsec.me/xssee/)
+* [CyberChef by gchq](https://ht.sumsec.me/CyberChef/CyberChef/)
 * [reverse-shell-generator by 0dayCTF](https://ht.sumsec.me/reshell.html)
 
 
