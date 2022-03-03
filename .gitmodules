@@ -11,3 +11,6 @@
 [submodule "peAssist"]
 	path = peAssist
 	url = git@github.com:SummerSec/peAssist.git
+[submodule "sgn-html"]
+	path = sgn-html
+	url = git@github.com:SummerSec/sgn-html.git
