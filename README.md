@@ -17,6 +17,7 @@
 * [reverse-shell-generator 功能强大的反弹 Shell 生成器 by 0dayCTF](https://ht.sumsec.me/reverse/)
 * [peAssist - Windows提权辅助 by gh0stkey](https://ht.sumsec.me/peAssist/)
 * [在线Google Hacking 小工具 by r00tSe7en](https://ht.sumsec.me/GoogleHackingTool/)
+* [一款msf前端混淆编码器，不依赖后端。将Shikata ga hai带到前端 by akkuman](http://ht.sumsec.me/sgn-html/)
 
 
 
@@ -86,9 +87,9 @@
 
 
 
+[**一款msf前端混淆编码器，不依赖后端。将Shikata ga hai带到前端。by akkuman**](https://ht.sumsec.me/sgn-html/)
 
-
-
+![image-20220303185520257](https://cdn.jsdelivr.net/gh/SummerSec/Images/25u5525ec25u5525ec.png)
 
 
 
@@ -98,15 +99,15 @@
 
 > 排名无先后顺序，只按照添加顺序
 
-| 名字                                                         | 作者                                      | 描述                                                | GitHub地址                                                   |
-| ------------------------------------------------------------ | ----------------------------------------- | --------------------------------------------------- | ------------------------------------------------------------ |
-| [Hack-Tools](https://github.com/LasCC/Hack-Tools)            | [LasCC](https://github.com/LasCC)         | Web Pentester的多合一红队扩展🛠                      | [https://github.com/LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) |
-| [Unicode-JSP](https://github.com/Rvn0xsy/usefull-code/blob/main/Encoder/unicode-jsp.html) | [Rvn0xsy](https://github.com/Rvn0xsy)     | Unicode-Jsp –Unicode 编码JSP工具                    | [https://github.com/Rvn0xsy/usefull-code](https://github.com/Rvn0xsy/usefull-code) |
-| [xssee](https://github.com/Monyer/xssee)                     | [Monyer](https://github.com/Monyer)       | A js encode/decode simple tool for XSS              | [https://github.com/Monyer/xssee/](https://github.com/Monyer/xssee/) |
-| [GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) | [r00tSe7en](https://github.com/r00tSe7en) | 在线Google Hacking 小工具                           | [https://github.com/r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) |
-| [CyberChef](https://github.com/gchq/CyberChef)               | [gchq](https://github.com/gchq)           | CyberChef 用于加密、编码、压缩和数据分析的网站      | [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef) |
-| [reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) | [0dayCTF](https://github.com/0dayCTF)     | reverse-shell-generator 功能强大的反弹 Shell 生成器 | [https://github.com/0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) |
-| [peAssist](https://github.com/gh0stkey/peAssist)             | [gh0stkey](https://github.com/gh0stkey)   | Windows提权辅助                                     | [https://github.com/gh0stkey/peAssist](https://github.com/gh0stkey/peAssist) |
-| [GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) | [r00tSe7en](https://github.com/r00tSe7en) | 在线Google Hacking 小工具                           | [https://github.com/r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) |
-|                                                              |                                           |                                                     |                                                              |
+| 名字                                                         | 作者                                      | 描述                                                         | GitHub地址                                                   |
+| ------------------------------------------------------------ | ----------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| [Hack-Tools](https://github.com/LasCC/Hack-Tools)            | [LasCC](https://github.com/LasCC)         | Web Pentester的多合一红队扩展🛠                               | [https://github.com/LasCC/Hack-Tools](https://github.com/LasCC/Hack-Tools) |
+| [Unicode-JSP](https://github.com/Rvn0xsy/usefull-code/blob/main/Encoder/unicode-jsp.html) | [Rvn0xsy](https://github.com/Rvn0xsy)     | Unicode-Jsp –Unicode 编码JSP工具                             | [https://github.com/Rvn0xsy/usefull-code](https://github.com/Rvn0xsy/usefull-code) |
+| [xssee](https://github.com/Monyer/xssee)                     | [Monyer](https://github.com/Monyer)       | A js encode/decode simple tool for XSS                       | [https://github.com/Monyer/xssee/](https://github.com/Monyer/xssee/) |
+| [GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) | [r00tSe7en](https://github.com/r00tSe7en) | 在线Google Hacking 小工具                                    | [https://github.com/r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) |
+| [CyberChef](https://github.com/gchq/CyberChef)               | [gchq](https://github.com/gchq)           | CyberChef 用于加密、编码、压缩和数据分析的网站               | [https://github.com/gchq/CyberChef](https://github.com/gchq/CyberChef) |
+| [reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) | [0dayCTF](https://github.com/0dayCTF)     | reverse-shell-generator 功能强大的反弹 Shell 生成器          | [https://github.com/0dayCTF/reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator) |
+| [peAssist](https://github.com/gh0stkey/peAssist)             | [gh0stkey](https://github.com/gh0stkey)   | Windows提权辅助                                              | [https://github.com/gh0stkey/peAssist](https://github.com/gh0stkey/peAssist) |
+| [GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) | [r00tSe7en](https://github.com/r00tSe7en) | 在线Google Hacking 小工具                                    | [https://github.com/r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) |
+| [sgn-html](https://github.com/akkuman/sgn-html)              | [akkuman](https://github.com/akkuman)     | 一款msf前端混淆编码器，不依赖后端。将Shikata ga hai带到前端。 | [https://github.com/akkuman/sgn-html](https://github.com/akkuman/sgn-html) |
 
