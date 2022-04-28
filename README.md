@@ -18,7 +18,7 @@
 * [peAssist - Windows提权辅助 by gh0stkey](https://ht.sumsec.me/peAssist/)
 * [在线Google Hacking 小工具 by r00tSe7en](https://ht.sumsec.me/GoogleHackingTool/)
 * [一款msf前端混淆编码器，不依赖后端。将Shikata ga hai带到前端 by akkuman](http://ht.sumsec.me/sgn-html/)
-* [朋友圈转发截图生成工具](http://ht.sumsec.me/wechat/)
+* [朋友圈转发截图生成工具 by TransparentLC](http://ht.sumsec.me/wechat/)
 
 
 
