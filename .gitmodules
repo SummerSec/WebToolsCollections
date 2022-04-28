@@ -14,3 +14,6 @@
 [submodule "sgn-html"]
 	path = sgn-html
 	url = git@github.com:SummerSec/sgn-html.git
+[submodule "WechatMomentScreenshot"]
+	path = wechat
+	url = git@github.com:TransparentLC/WechatMomentScreenshot.git
