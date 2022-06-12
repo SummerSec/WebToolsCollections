@@ -19,6 +19,7 @@
 * [在线Google Hacking 小工具 by r00tSe7en](https://ht.sumsec.me/GoogleHackingTool/)
 * [一款msf前端混淆编码器，不依赖后端。将Shikata ga hai带到前端 by akkuman](http://ht.sumsec.me/sgn-html/)
 * [朋友圈转发截图生成工具 by TransparentLC](http://ht.sumsec.me/wechat/)
+* [专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）by joyqi](https://github.com/joyqi/sfz)
 
 
 
@@ -94,6 +95,18 @@
 
 
 
+[**专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件）**](https://github.com/joyqi/sfz)
+
+![image-20220612212507784](https://cdn.jsdelivr.net/gh/SummerSec/Images/2022/03/14u2514ec14u2514ec.png)
+
+
+
+
+
+
+
+
+
 ----
 
 ### 来源列表
@@ -112,4 +125,5 @@
 | [GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) | [r00tSe7en](https://github.com/r00tSe7en)          | 在线Google Hacking 小工具                                    | [https://github.com/r00tSe7en/GoogleHackingTool](https://github.com/r00tSe7en/GoogleHackingTool) |
 | [sgn-html](https://github.com/akkuman/sgn-html)              | [akkuman](https://github.com/akkuman)              | 一款msf前端混淆编码器，不依赖后端。将Shikata ga hai带到前端。 | [https://github.com/akkuman/sgn-html](https://github.com/akkuman/sgn-html) |
 | [WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) | [TransparentLC](https://github.com/TransparentLC/) | 朋友圈转发截图生成工具                                       | [https://github.com/TransparentLC/WechatMomentScreenshot](https://github.com/TransparentLC/WechatMomentScreenshot) |
+| [sfz](https://github.com/joyqi/sfz)                          | [joyqi](https://github.com/joyqi)                  | 专门用于给图片加水印打码的工具，完全基于浏览器本地API，无任何网络请求（特别适合身份证等敏感证件） | [https://github.com/joyqi/sfz](https://github.com/joyqi/sfz) |
 
